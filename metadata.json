@@ -1,0 +1,6 @@
+{
+  "name": "Szama Rider - Poland Courier Partner",
+  "description": "Poland's premier food delivery fleet management partner for couriers. 24-hour multi-app fleet activation with fixed 30 PLN weekly fee, automated courier settlement, equipment logistics, and legalization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
